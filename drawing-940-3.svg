@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1474.1999999999998 946.7" width="100%" height="100%" role="img">
+  <rect width="100%" height="100%" fill="#ffffff" />
+  <g transform="translate(299.6 872.1) scale(1 -1)">
+    <path d="M -100 -20 L -100 670 M -120 0 L -60 0 M -120 650 L -60 650 M -107.071 7.071 L -92.929 -7.071 M -107.071 657.071 L -92.929 642.929 M 1100 -20 L 1100 670 M 1120 0 L 1060 0 M 1120 650 L 1060 650 M 1092.929 7.071 L 1107.071 -7.071 M 1092.929 657.071 L 1107.071 642.929 M -200 -20 L -200 670 M -220 0 L -160 0 M -220 650 L -160 650 M -207.071 7.071 L -192.929 -7.071 M -207.071 657.071 L -192.929 642.929 M -20 750 L 1020 750 M 0 770 L 0 710 M 1000 770 L 1000 710 M 7.071 757.071 L -7.071 742.929 M 1007.071 757.071 L 992.929 742.929" fill="none" stroke="#1f2937" stroke-width="1" vector-effect="non-scaling-stroke" />
+    
+  </g>
+  <g fill="#111827" font-family="Arial, Helvetica, sans-serif" text-anchor="start">
+    <text x="154.60000000000002" y="580.614" font-size="22.5" transform="rotate(-90 154.60000000000002 580.614)">650</text><text x="1354.6" y="580.614" font-size="22.5" transform="rotate(-90 1354.6 580.614)">650</text><text x="54.60000000000002" y="580.614" font-size="22.5" transform="rotate(-90 54.60000000000002 580.614)">650</text><text x="754.915" y="77.10000000000002" font-size="22.5">1000</text>
+  </g>
+</svg>

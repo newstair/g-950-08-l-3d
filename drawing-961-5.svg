@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 73.48288000000001 317.01888" width="100%" height="100%" role="img">
+  <rect width="100%" height="100%" fill="#ffffff" />
+  <g transform="translate(-58.25856 341.74144) scale(1 -1)">
+    <path d="M 83.536 43.536 L 76.464 36.464 M 76.466 43.536 L 83.534 36.464 M 113.536 123.536 L 106.464 116.464 M 106.466 123.536 L 113.534 116.464 M 113.536 163.536 L 106.464 156.464 M 106.466 163.536 L 113.534 156.464 M 83.536 203.536 L 76.464 196.464 M 76.466 203.536 L 83.534 196.464 M 83.536 323.536 L 76.464 316.464 M 76.466 323.536 L 83.534 316.464 M 113.536 283.536 L 106.464 276.464 M 106.466 283.536 L 113.534 276.464" fill="none" stroke="#1f2937" stroke-width="1" vector-effect="non-scaling-stroke" />
+    <circle cx="80" cy="40" r="3" fill="none" stroke="#1f2937" stroke-width="1" vector-effect="non-scaling-stroke" /><circle cx="110" cy="120" r="3" fill="none" stroke="#1f2937" stroke-width="1" vector-effect="non-scaling-stroke" /><circle cx="110" cy="160" r="10" fill="none" stroke="#1f2937" stroke-width="1" vector-effect="non-scaling-stroke" /><circle cx="80" cy="200" r="3" fill="none" stroke="#1f2937" stroke-width="1" vector-effect="non-scaling-stroke" /><circle cx="80" cy="320" r="10" fill="none" stroke="#1f2937" stroke-width="1" vector-effect="non-scaling-stroke" /><circle cx="110" cy="280" r="3" fill="none" stroke="#1f2937" stroke-width="1" vector-effect="non-scaling-stroke" />
+  </g>
+  <g fill="#111827" font-family="Arial, Helvetica, sans-serif" text-anchor="start">
+    
+  </g>
+</svg>

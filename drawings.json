@@ -1,0 +1,1272 @@
+{
+  "pdf": [
+    {
+      "name": "G-950-08 L.pdf",
+      "url": "g-950-08-l.pdf"
+    }
+  ],
+  "dxf": [
+    {
+      "name": "1_Ba1R1L.DXF",
+      "url": "1_Ba1R1L.DXF",
+      "views": [
+        {
+          "name": "Все слои",
+          "url": "drawing-916.svg"
+        },
+        {
+          "name": "CONTOUR",
+          "url": "drawing-916-1.svg"
+        },
+        {
+          "name": "DIMLINES",
+          "url": "drawing-916-2.svg"
+        }
+      ]
+    },
+    {
+      "name": "1_Ba1R2L.DXF",
+      "url": "1_Ba1R2L.DXF",
+      "views": [
+        {
+          "name": "Все слои",
+          "url": "drawing-917.svg"
+        },
+        {
+          "name": "CONTOUR",
+          "url": "drawing-917-1.svg"
+        },
+        {
+          "name": "DIMLINES",
+          "url": "drawing-917-2.svg"
+        }
+      ]
+    },
+    {
+      "name": "1_Ba2R1L.DXF",
+      "url": "1_Ba2R1L.DXF",
+      "views": [
+        {
+          "name": "Все слои",
+          "url": "drawing-918.svg"
+        },
+        {
+          "name": "CONTOUR",
+          "url": "drawing-918-1.svg"
+        },
+        {
+          "name": "DIMLINES",
+          "url": "drawing-918-2.svg"
+        }
+      ]
+    },
+    {
+      "name": "1_Ba2R2L.DXF",
+      "url": "1_Ba2R2L.DXF",
+      "views": [
+        {
+          "name": "Все слои",
+          "url": "drawing-919.svg"
+        },
+        {
+          "name": "CONTOUR",
+          "url": "drawing-919-1.svg"
+        },
+        {
+          "name": "DIMLINES",
+          "url": "drawing-919-2.svg"
+        }
+      ]
+    },
+    {
+      "name": "1_Ba3R1L.DXF",
+      "url": "1_Ba3R1L.DXF",
+      "views": [
+        {
+          "name": "Все слои",
+          "url": "drawing-920.svg"
+        },
+        {
+          "name": "CONTOUR",
+          "url": "drawing-920-1.svg"
+        },
+        {
+          "name": "DIMLINES",
+          "url": "drawing-920-2.svg"
+        }
+      ]
+    },
+    {
+      "name": "1_Ba3R2L.DXF",
+      "url": "1_Ba3R2L.DXF",
+      "views": [
+        {
+          "name": "Все слои",
+          "url": "drawing-921.svg"
+        },
+        {
+          "name": "CONTOUR",
+          "url": "drawing-921-1.svg"
+        },
+        {
+          "name": "DIMLINES",
+          "url": "drawing-921-2.svg"
+        }
+      ]
+    },
+    {
+      "name": "1_Ba4R1L.DXF",
+      "url": "1_Ba4R1L.DXF",
+      "views": [
+        {
+          "name": "Все слои",
+          "url": "drawing-922.svg"
+        },
+        {
+          "name": "CONTOUR",
+          "url": "drawing-922-1.svg"
+        },
+        {
+          "name": "DIMLINES",
+          "url": "drawing-922-2.svg"
+        }
+      ]
+    },
+    {
+      "name": "1_Ba4R2L.DXF",
+      "url": "1_Ba4R2L.DXF",
+      "views": [
+        {
+          "name": "Все слои",
+          "url": "drawing-923.svg"
+        },
+        {
+          "name": "CONTOUR",
+          "url": "drawing-923-1.svg"
+        },
+        {
+          "name": "DIMLINES",
+          "url": "drawing-923-2.svg"
+        }
+      ]
+    },
+    {
+      "name": "1_Ba5R1L.DXF",
+      "url": "1_Ba5R1L.DXF",
+      "views": [
+        {
+          "name": "Все слои",
+          "url": "drawing-924.svg"
+        },
+        {
+          "name": "CONTOUR",
+          "url": "drawing-924-1.svg"
+        },
+        {
+          "name": "DIMLINES",
+          "url": "drawing-924-2.svg"
+        }
+      ]
+    },
+    {
+      "name": "1_EnPL.DXF",
+      "url": "1_EnPL.DXF",
+      "views": [
+        {
+          "name": "Все слои",
+          "url": "drawing-925.svg"
+        },
+        {
+          "name": "1_EnPL",
+          "url": "drawing-925-1.svg"
+        },
+        {
+          "name": "CONTOUR",
+          "url": "drawing-925-2.svg"
+        },
+        {
+          "name": "CUT_HANDRAIL",
+          "url": "drawing-925-3.svg"
+        },
+        {
+          "name": "CUT_STEP",
+          "url": "drawing-925-4.svg"
+        },
+        {
+          "name": "CUT_VANGTENON",
+          "url": "drawing-925-5.svg"
+        },
+        {
+          "name": "DIMLINES",
+          "url": "drawing-925-6.svg"
+        },
+        {
+          "name": "DRILLINGS",
+          "url": "drawing-925-7.svg"
+        }
+      ]
+    },
+    {
+      "name": "1_HRR1L.DXF",
+      "url": "1_HRR1L.DXF",
+      "views": [
+        {
+          "name": "Все слои",
+          "url": "drawing-926.svg"
+        },
+        {
+          "name": "CONTOUR",
+          "url": "drawing-926-1.svg"
+        },
+        {
+          "name": "DIMLINES",
+          "url": "drawing-926-2.svg"
+        },
+        {
+          "name": "DRILLINGSSIDE",
+          "url": "drawing-926-3.svg"
+        }
+      ]
+    },
+    {
+      "name": "1_HRR2L.DXF",
+      "url": "1_HRR2L.DXF",
+      "views": [
+        {
+          "name": "Все слои",
+          "url": "drawing-927.svg"
+        },
+        {
+          "name": "CONTOUR",
+          "url": "drawing-927-1.svg"
+        },
+        {
+          "name": "DIMLINES",
+          "url": "drawing-927-2.svg"
+        },
+        {
+          "name": "DRILLINGSSIDE",
+          "url": "drawing-927-3.svg"
+        }
+      ]
+    },
+    {
+      "name": "1_SP1-2L.DXF",
+      "url": "1_SP1-2L.DXF",
+      "views": [
+        {
+          "name": "Все слои",
+          "url": "drawing-928.svg"
+        },
+        {
+          "name": "1_SP1-2L",
+          "url": "drawing-928-1.svg"
+        },
+        {
+          "name": "CONTOUR",
+          "url": "drawing-928-2.svg"
+        },
+        {
+          "name": "CUT_HANDRAIL",
+          "url": "drawing-928-3.svg"
+        },
+        {
+          "name": "CUT_STEP",
+          "url": "drawing-928-4.svg"
+        },
+        {
+          "name": "CUT_VANGTENON",
+          "url": "drawing-928-5.svg"
+        },
+        {
+          "name": "DIMLINES",
+          "url": "drawing-928-6.svg"
+        },
+        {
+          "name": "DRILLINGS",
+          "url": "drawing-928-7.svg"
+        }
+      ]
+    },
+    {
+      "name": "1_SP1-2R.DXF",
+      "url": "1_SP1-2R.DXF",
+      "views": [
+        {
+          "name": "Все слои",
+          "url": "drawing-929.svg"
+        },
+        {
+          "name": "1_SP1-2R",
+          "url": "drawing-929-1.svg"
+        },
+        {
+          "name": "CONTOUR",
+          "url": "drawing-929-2.svg"
+        },
+        {
+          "name": "CUT_STEP",
+          "url": "drawing-929-3.svg"
+        },
+        {
+          "name": "CUT_VANGTENON",
+          "url": "drawing-929-4.svg"
+        },
+        {
+          "name": "DIMLINES",
+          "url": "drawing-929-5.svg"
+        },
+        {
+          "name": "DRILLINGS",
+          "url": "drawing-929-6.svg"
+        }
+      ]
+    },
+    {
+      "name": "1_St1L.DXF",
+      "url": "1_St1L.DXF",
+      "views": [
+        {
+          "name": "Все слои",
+          "url": "drawing-930.svg"
+        },
+        {
+          "name": "CONTOUR",
+          "url": "drawing-930-1.svg"
+        },
+        {
+          "name": "CUT_STEP",
+          "url": "drawing-930-2.svg"
+        },
+        {
+          "name": "DIMLINES",
+          "url": "drawing-930-3.svg"
+        },
+        {
+          "name": "DRILLINGSOTHER",
+          "url": "drawing-930-4.svg"
+        },
+        {
+          "name": "DRILLINGSSIDE",
+          "url": "drawing-930-5.svg"
+        }
+      ]
+    },
+    {
+      "name": "1_St1R.DXF",
+      "url": "1_St1R.DXF",
+      "views": [
+        {
+          "name": "Все слои",
+          "url": "drawing-931.svg"
+        },
+        {
+          "name": "CONTOUR",
+          "url": "drawing-931-1.svg"
+        },
+        {
+          "name": "CUT_MITRE",
+          "url": "drawing-931-2.svg"
+        },
+        {
+          "name": "CUT_STEP",
+          "url": "drawing-931-3.svg"
+        },
+        {
+          "name": "DIMLINES",
+          "url": "drawing-931-4.svg"
+        },
+        {
+          "name": "DRILLINGSOTHER",
+          "url": "drawing-931-5.svg"
+        },
+        {
+          "name": "DRILLINGSSIDE",
+          "url": "drawing-931-6.svg"
+        }
+      ]
+    },
+    {
+      "name": "1_St2L.DXF",
+      "url": "1_St2L.DXF",
+      "views": [
+        {
+          "name": "Все слои",
+          "url": "drawing-932.svg"
+        },
+        {
+          "name": "CONTOUR",
+          "url": "drawing-932-1.svg"
+        },
+        {
+          "name": "CUT_STEP",
+          "url": "drawing-932-2.svg"
+        },
+        {
+          "name": "DIMLINES",
+          "url": "drawing-932-3.svg"
+        },
+        {
+          "name": "DRILLINGSOTHER",
+          "url": "drawing-932-4.svg"
+        },
+        {
+          "name": "DRILLINGSSIDE",
+          "url": "drawing-932-5.svg"
+        }
+      ]
+    },
+    {
+      "name": "1_St2R.DXF",
+      "url": "1_St2R.DXF",
+      "views": [
+        {
+          "name": "Все слои",
+          "url": "drawing-933.svg"
+        },
+        {
+          "name": "CONTOUR",
+          "url": "drawing-933-1.svg"
+        },
+        {
+          "name": "CUT_STEP",
+          "url": "drawing-933-2.svg"
+        },
+        {
+          "name": "DIMLINES",
+          "url": "drawing-933-3.svg"
+        },
+        {
+          "name": "DRILLINGSOTHER",
+          "url": "drawing-933-4.svg"
+        },
+        {
+          "name": "DRILLINGSSIDE",
+          "url": "drawing-933-5.svg"
+        }
+      ]
+    },
+    {
+      "name": "1_StPL.DXF",
+      "url": "1_StPL.DXF",
+      "views": [
+        {
+          "name": "Все слои",
+          "url": "drawing-934.svg"
+        },
+        {
+          "name": "1_StPL",
+          "url": "drawing-934-1.svg"
+        },
+        {
+          "name": "CONTOUR",
+          "url": "drawing-934-2.svg"
+        },
+        {
+          "name": "CUT_HANDRAIL",
+          "url": "drawing-934-3.svg"
+        },
+        {
+          "name": "CUT_STEP",
+          "url": "drawing-934-4.svg"
+        },
+        {
+          "name": "CUT_VANGTENON",
+          "url": "drawing-934-5.svg"
+        },
+        {
+          "name": "DIMLINES",
+          "url": "drawing-934-6.svg"
+        },
+        {
+          "name": "DRILLINGS",
+          "url": "drawing-934-7.svg"
+        }
+      ]
+    },
+    {
+      "name": "1_Tr2.DXF",
+      "url": "1_Tr2.DXF",
+      "views": [
+        {
+          "name": "Все слои",
+          "url": "drawing-935.svg"
+        },
+        {
+          "name": "CONTOUR",
+          "url": "drawing-935-1.svg"
+        },
+        {
+          "name": "DIMLINES",
+          "url": "drawing-935-2.svg"
+        },
+        {
+          "name": "DRILLINGSOTHER",
+          "url": "drawing-935-3.svg"
+        },
+        {
+          "name": "DRILLINGSSIDE",
+          "url": "drawing-935-4.svg"
+        },
+        {
+          "name": "EXTRATREADBACKPROFILELINES",
+          "url": "drawing-935-5.svg"
+        },
+        {
+          "name": "EXTRATREADFRONTPROFILELINES",
+          "url": "drawing-935-6.svg"
+        }
+      ]
+    },
+    {
+      "name": "1_Tr3.DXF",
+      "url": "1_Tr3.DXF",
+      "views": [
+        {
+          "name": "Все слои",
+          "url": "drawing-936.svg"
+        },
+        {
+          "name": "CONTOUR",
+          "url": "drawing-936-1.svg"
+        },
+        {
+          "name": "DIMLINES",
+          "url": "drawing-936-2.svg"
+        },
+        {
+          "name": "DRILLINGSOTHER",
+          "url": "drawing-936-3.svg"
+        },
+        {
+          "name": "DRILLINGSSIDE",
+          "url": "drawing-936-4.svg"
+        },
+        {
+          "name": "EXTRATREADBACKPROFILELINES",
+          "url": "drawing-936-5.svg"
+        },
+        {
+          "name": "EXTRATREADFRONTPROFILELINES",
+          "url": "drawing-936-6.svg"
+        }
+      ]
+    },
+    {
+      "name": "1_Tr4+1_Tr9.DXF",
+      "url": "1_Tr4%2B1_Tr9.DXF",
+      "views": [
+        {
+          "name": "Все слои",
+          "url": "drawing-937.svg"
+        },
+        {
+          "name": "CONTOUR",
+          "url": "drawing-937-1.svg"
+        },
+        {
+          "name": "CUT_SPLIT",
+          "url": "drawing-937-2.svg"
+        },
+        {
+          "name": "DIMLINES",
+          "url": "drawing-937-3.svg"
+        },
+        {
+          "name": "DRILLINGSOTHER",
+          "url": "drawing-937-4.svg"
+        },
+        {
+          "name": "DRILLINGSSIDE",
+          "url": "drawing-937-5.svg"
+        },
+        {
+          "name": "EXTRATREADBACKPROFILELINES",
+          "url": "drawing-937-6.svg"
+        },
+        {
+          "name": "EXTRATREADFRONTPROFILELINES",
+          "url": "drawing-937-7.svg"
+        }
+      ]
+    },
+    {
+      "name": "1_Tr7+1_Tr6.DXF",
+      "url": "1_Tr7%2B1_Tr6.DXF",
+      "views": [
+        {
+          "name": "Все слои",
+          "url": "drawing-938.svg"
+        },
+        {
+          "name": "CONTOUR",
+          "url": "drawing-938-1.svg"
+        },
+        {
+          "name": "CUT_SPLIT",
+          "url": "drawing-938-2.svg"
+        },
+        {
+          "name": "DIMLINES",
+          "url": "drawing-938-3.svg"
+        },
+        {
+          "name": "DRILLINGSOTHER",
+          "url": "drawing-938-4.svg"
+        },
+        {
+          "name": "DRILLINGSSIDE",
+          "url": "drawing-938-5.svg"
+        },
+        {
+          "name": "EXTRATREADBACKPROFILELINES",
+          "url": "drawing-938-6.svg"
+        },
+        {
+          "name": "EXTRATREADFRONTPROFILELINES",
+          "url": "drawing-938-7.svg"
+        }
+      ]
+    },
+    {
+      "name": "1_Tr8+1_Tr5.DXF",
+      "url": "1_Tr8%2B1_Tr5.DXF",
+      "views": [
+        {
+          "name": "Все слои",
+          "url": "drawing-939.svg"
+        },
+        {
+          "name": "CONTOUR",
+          "url": "drawing-939-1.svg"
+        },
+        {
+          "name": "CUT_SPLIT",
+          "url": "drawing-939-2.svg"
+        },
+        {
+          "name": "DIMLINES",
+          "url": "drawing-939-3.svg"
+        },
+        {
+          "name": "DRILLINGSOTHER",
+          "url": "drawing-939-4.svg"
+        },
+        {
+          "name": "DRILLINGSSIDE",
+          "url": "drawing-939-5.svg"
+        },
+        {
+          "name": "EXTRATREADBACKPROFILELINES",
+          "url": "drawing-939-6.svg"
+        },
+        {
+          "name": "EXTRATREADFRONTPROFILELINES",
+          "url": "drawing-939-7.svg"
+        }
+      ]
+    },
+    {
+      "name": "1_Tr10+1_Tr1.DXF",
+      "url": "1_Tr10%2B1_Tr1.DXF",
+      "views": [
+        {
+          "name": "Все слои",
+          "url": "drawing-940.svg"
+        },
+        {
+          "name": "CONTOUR",
+          "url": "drawing-940-1.svg"
+        },
+        {
+          "name": "CUT_SPLIT",
+          "url": "drawing-940-2.svg"
+        },
+        {
+          "name": "DIMLINES",
+          "url": "drawing-940-3.svg"
+        },
+        {
+          "name": "DRILLINGSOTHER",
+          "url": "drawing-940-4.svg"
+        },
+        {
+          "name": "DRILLINGSSIDE",
+          "url": "drawing-940-5.svg"
+        },
+        {
+          "name": "EXTRATREADBACKPROFILELINES",
+          "url": "drawing-940-6.svg"
+        },
+        {
+          "name": "EXTRATREADFRONTPROFILELINES",
+          "url": "drawing-940-7.svg"
+        }
+      ]
+    },
+    {
+      "name": "1_Tr11.DXF",
+      "url": "1_Tr11.DXF",
+      "views": [
+        {
+          "name": "Все слои",
+          "url": "drawing-941.svg"
+        },
+        {
+          "name": "CONTOUR",
+          "url": "drawing-941-1.svg"
+        },
+        {
+          "name": "DIMLINES",
+          "url": "drawing-941-2.svg"
+        },
+        {
+          "name": "DRILLINGSOTHER",
+          "url": "drawing-941-3.svg"
+        },
+        {
+          "name": "DRILLINGSSIDE",
+          "url": "drawing-941-4.svg"
+        },
+        {
+          "name": "EXTRATREADBACKPROFILELINES",
+          "url": "drawing-941-5.svg"
+        },
+        {
+          "name": "EXTRATREADFRONTPROFILELINES",
+          "url": "drawing-941-6.svg"
+        }
+      ]
+    },
+    {
+      "name": "1_Tr12.DXF",
+      "url": "1_Tr12.DXF",
+      "views": [
+        {
+          "name": "Все слои",
+          "url": "drawing-942.svg"
+        },
+        {
+          "name": "CONTOUR",
+          "url": "drawing-942-1.svg"
+        },
+        {
+          "name": "DIMLINES",
+          "url": "drawing-942-2.svg"
+        },
+        {
+          "name": "DRILLINGSOTHER",
+          "url": "drawing-942-3.svg"
+        },
+        {
+          "name": "DRILLINGSSIDE",
+          "url": "drawing-942-4.svg"
+        },
+        {
+          "name": "EXTRATREADBACKPROFILELINES",
+          "url": "drawing-942-5.svg"
+        },
+        {
+          "name": "EXTRATREADFRONTPROFILELINES",
+          "url": "drawing-942-6.svg"
+        }
+      ]
+    },
+    {
+      "name": "2_Ba1FR21.DXF",
+      "url": "2_Ba1FR21.DXF",
+      "views": [
+        {
+          "name": "Все слои",
+          "url": "drawing-943.svg"
+        },
+        {
+          "name": "CONTOUR",
+          "url": "drawing-943-1.svg"
+        },
+        {
+          "name": "DIMLINES",
+          "url": "drawing-943-2.svg"
+        }
+      ]
+    },
+    {
+      "name": "2_Ba1FR31.DXF",
+      "url": "2_Ba1FR31.DXF",
+      "views": [
+        {
+          "name": "Все слои",
+          "url": "drawing-944.svg"
+        },
+        {
+          "name": "CONTOUR",
+          "url": "drawing-944-1.svg"
+        },
+        {
+          "name": "DIMLINES",
+          "url": "drawing-944-2.svg"
+        }
+      ]
+    },
+    {
+      "name": "2_Ba1FR41.DXF",
+      "url": "2_Ba1FR41.DXF",
+      "views": [
+        {
+          "name": "Все слои",
+          "url": "drawing-945.svg"
+        },
+        {
+          "name": "CONTOUR",
+          "url": "drawing-945-1.svg"
+        },
+        {
+          "name": "DIMLINES",
+          "url": "drawing-945-2.svg"
+        }
+      ]
+    },
+    {
+      "name": "2_Ba2FR21.DXF",
+      "url": "2_Ba2FR21.DXF",
+      "views": [
+        {
+          "name": "Все слои",
+          "url": "drawing-946.svg"
+        },
+        {
+          "name": "CONTOUR",
+          "url": "drawing-946-1.svg"
+        },
+        {
+          "name": "DIMLINES",
+          "url": "drawing-946-2.svg"
+        }
+      ]
+    },
+    {
+      "name": "2_Ba2FR31.DXF",
+      "url": "2_Ba2FR31.DXF",
+      "views": [
+        {
+          "name": "Все слои",
+          "url": "drawing-947.svg"
+        },
+        {
+          "name": "CONTOUR",
+          "url": "drawing-947-1.svg"
+        },
+        {
+          "name": "DIMLINES",
+          "url": "drawing-947-2.svg"
+        }
+      ]
+    },
+    {
+      "name": "2_Ba2FR41.DXF",
+      "url": "2_Ba2FR41.DXF",
+      "views": [
+        {
+          "name": "Все слои",
+          "url": "drawing-948.svg"
+        },
+        {
+          "name": "CONTOUR",
+          "url": "drawing-948-1.svg"
+        },
+        {
+          "name": "DIMLINES",
+          "url": "drawing-948-2.svg"
+        }
+      ]
+    },
+    {
+      "name": "2_Ba3FR21.DXF",
+      "url": "2_Ba3FR21.DXF",
+      "views": [
+        {
+          "name": "Все слои",
+          "url": "drawing-949.svg"
+        },
+        {
+          "name": "CONTOUR",
+          "url": "drawing-949-1.svg"
+        },
+        {
+          "name": "DIMLINES",
+          "url": "drawing-949-2.svg"
+        }
+      ]
+    },
+    {
+      "name": "2_Ba3FR31.DXF",
+      "url": "2_Ba3FR31.DXF",
+      "views": [
+        {
+          "name": "Все слои",
+          "url": "drawing-950.svg"
+        },
+        {
+          "name": "CONTOUR",
+          "url": "drawing-950-1.svg"
+        },
+        {
+          "name": "DIMLINES",
+          "url": "drawing-950-2.svg"
+        }
+      ]
+    },
+    {
+      "name": "2_Ba3FR41.DXF",
+      "url": "2_Ba3FR41.DXF",
+      "views": [
+        {
+          "name": "Все слои",
+          "url": "drawing-951.svg"
+        },
+        {
+          "name": "CONTOUR",
+          "url": "drawing-951-1.svg"
+        },
+        {
+          "name": "DIMLINES",
+          "url": "drawing-951-2.svg"
+        }
+      ]
+    },
+    {
+      "name": "2_Ba4FR41.DXF",
+      "url": "2_Ba4FR41.DXF",
+      "views": [
+        {
+          "name": "Все слои",
+          "url": "drawing-952.svg"
+        },
+        {
+          "name": "CONTOUR",
+          "url": "drawing-952-1.svg"
+        },
+        {
+          "name": "DIMLINES",
+          "url": "drawing-952-2.svg"
+        }
+      ]
+    },
+    {
+      "name": "2_BRFR11.DXF",
+      "url": "2_BRFR11.DXF",
+      "views": [
+        {
+          "name": "Все слои",
+          "url": "drawing-953.svg"
+        },
+        {
+          "name": "CONTOUR",
+          "url": "drawing-953-1.svg"
+        },
+        {
+          "name": "CUT_MITRE",
+          "url": "drawing-953-2.svg"
+        },
+        {
+          "name": "DIMLINES",
+          "url": "drawing-953-3.svg"
+        }
+      ]
+    },
+    {
+      "name": "2_BRFR21.DXF",
+      "url": "2_BRFR21.DXF",
+      "views": [
+        {
+          "name": "Все слои",
+          "url": "drawing-954.svg"
+        },
+        {
+          "name": "CONTOUR",
+          "url": "drawing-954-1.svg"
+        },
+        {
+          "name": "CUT_MITRE",
+          "url": "drawing-954-2.svg"
+        },
+        {
+          "name": "DIMLINES",
+          "url": "drawing-954-3.svg"
+        },
+        {
+          "name": "DRILLINGSSIDE",
+          "url": "drawing-954-4.svg"
+        }
+      ]
+    },
+    {
+      "name": "2_BRFR31.DXF",
+      "url": "2_BRFR31.DXF",
+      "views": [
+        {
+          "name": "Все слои",
+          "url": "drawing-955.svg"
+        },
+        {
+          "name": "CONTOUR",
+          "url": "drawing-955-1.svg"
+        },
+        {
+          "name": "DIMLINES",
+          "url": "drawing-955-2.svg"
+        },
+        {
+          "name": "DRILLINGSSIDE",
+          "url": "drawing-955-3.svg"
+        }
+      ]
+    },
+    {
+      "name": "2_BRFR41.DXF",
+      "url": "2_BRFR41.DXF",
+      "views": [
+        {
+          "name": "Все слои",
+          "url": "drawing-956.svg"
+        },
+        {
+          "name": "CONTOUR",
+          "url": "drawing-956-1.svg"
+        },
+        {
+          "name": "DIMLINES",
+          "url": "drawing-956-2.svg"
+        },
+        {
+          "name": "DRILLINGSSIDE",
+          "url": "drawing-956-3.svg"
+        }
+      ]
+    },
+    {
+      "name": "2_HRFR1.DXF",
+      "url": "2_HRFR1.DXF",
+      "views": [
+        {
+          "name": "Все слои",
+          "url": "drawing-957.svg"
+        },
+        {
+          "name": "CONTOUR",
+          "url": "drawing-957-1.svg"
+        },
+        {
+          "name": "CUT_MITRE",
+          "url": "drawing-957-2.svg"
+        },
+        {
+          "name": "DIMLINES",
+          "url": "drawing-957-3.svg"
+        },
+        {
+          "name": "DRILLINGSSIDE",
+          "url": "drawing-957-4.svg"
+        }
+      ]
+    },
+    {
+      "name": "2_HRFR2.DXF",
+      "url": "2_HRFR2.DXF",
+      "views": [
+        {
+          "name": "Все слои",
+          "url": "drawing-958.svg"
+        },
+        {
+          "name": "CONTOUR",
+          "url": "drawing-958-1.svg"
+        },
+        {
+          "name": "CUT_MITRE",
+          "url": "drawing-958-2.svg"
+        },
+        {
+          "name": "DIMLINES",
+          "url": "drawing-958-3.svg"
+        },
+        {
+          "name": "DRILLINGSOTHER",
+          "url": "drawing-958-4.svg"
+        },
+        {
+          "name": "DRILLINGSSIDE",
+          "url": "drawing-958-5.svg"
+        }
+      ]
+    },
+    {
+      "name": "2_HRFR3.DXF",
+      "url": "2_HRFR3.DXF",
+      "views": [
+        {
+          "name": "Все слои",
+          "url": "drawing-959.svg"
+        },
+        {
+          "name": "CONTOUR",
+          "url": "drawing-959-1.svg"
+        },
+        {
+          "name": "DIMLINES",
+          "url": "drawing-959-2.svg"
+        },
+        {
+          "name": "DRILLINGSSIDE",
+          "url": "drawing-959-3.svg"
+        }
+      ]
+    },
+    {
+      "name": "2_HRFR4.DXF",
+      "url": "2_HRFR4.DXF",
+      "views": [
+        {
+          "name": "Все слои",
+          "url": "drawing-960.svg"
+        },
+        {
+          "name": "CONTOUR",
+          "url": "drawing-960-1.svg"
+        },
+        {
+          "name": "DIMLINES",
+          "url": "drawing-960-2.svg"
+        },
+        {
+          "name": "DRILLINGSSIDE",
+          "url": "drawing-960-3.svg"
+        }
+      ]
+    },
+    {
+      "name": "2_P1.DXF",
+      "url": "2_P1.DXF",
+      "views": [
+        {
+          "name": "Все слои",
+          "url": "drawing-961.svg"
+        },
+        {
+          "name": "2_P1",
+          "url": "drawing-961-1.svg"
+        },
+        {
+          "name": "CONTOUR",
+          "url": "drawing-961-2.svg"
+        },
+        {
+          "name": "CUT_HANDRAIL",
+          "url": "drawing-961-3.svg"
+        },
+        {
+          "name": "DIMLINES",
+          "url": "drawing-961-4.svg"
+        },
+        {
+          "name": "DRILLINGS",
+          "url": "drawing-961-5.svg"
+        }
+      ]
+    },
+    {
+      "name": "2_P2.DXF",
+      "url": "2_P2.DXF",
+      "views": [
+        {
+          "name": "Все слои",
+          "url": "drawing-962.svg"
+        },
+        {
+          "name": "2_P2",
+          "url": "drawing-962-1.svg"
+        },
+        {
+          "name": "CONTOUR",
+          "url": "drawing-962-2.svg"
+        },
+        {
+          "name": "CUT_HANDRAIL",
+          "url": "drawing-962-3.svg"
+        },
+        {
+          "name": "DIMLINES",
+          "url": "drawing-962-4.svg"
+        },
+        {
+          "name": "DRILLINGS",
+          "url": "drawing-962-5.svg"
+        }
+      ]
+    },
+    {
+      "name": "2_P3.DXF",
+      "url": "2_P3.DXF",
+      "views": [
+        {
+          "name": "Все слои",
+          "url": "drawing-963.svg"
+        },
+        {
+          "name": "2_P3",
+          "url": "drawing-963-1.svg"
+        },
+        {
+          "name": "CONTOUR",
+          "url": "drawing-963-2.svg"
+        },
+        {
+          "name": "CUT_HANDRAIL",
+          "url": "drawing-963-3.svg"
+        },
+        {
+          "name": "DIMLINES",
+          "url": "drawing-963-4.svg"
+        },
+        {
+          "name": "DRILLINGS",
+          "url": "drawing-963-5.svg"
+        }
+      ]
+    },
+    {
+      "name": "G-950-08 L.DXF",
+      "url": "g-950-08-l.DXF",
+      "views": [
+        {
+          "name": "Все слои",
+          "url": "drawing-967.svg"
+        },
+        {
+          "name": "Этаж_1",
+          "url": "drawing-967-1.svg"
+        },
+        {
+          "name": "Этаж_1_LeftElev",
+          "url": "drawing-967-2.svg"
+        },
+        {
+          "name": "Этаж_1_RightElev",
+          "url": "drawing-967-3.svg"
+        },
+        {
+          "name": "Этаж_1DIMLINES",
+          "url": "drawing-967-4.svg"
+        },
+        {
+          "name": "Этаж_2",
+          "url": "drawing-967-5.svg"
+        },
+        {
+          "name": "Этаж_2_FloorRail",
+          "url": "drawing-967-6.svg"
+        }
+      ]
+    }
+  ]
+}

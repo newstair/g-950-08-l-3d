@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2787.3396000000002 830.1655999999999" width="100%" height="100%" role="img">
+  <rect width="100%" height="100%" fill="#ffffff" />
+  <g transform="translate(248.2348 706.9308) scale(1 -1)">
+    <path d="M -100 -20 L -100 456.196 M -120 0 L -60 0 M -120 436.196 L -60 436.196 M -107.071 7.071 L -92.929 -7.071 M -107.071 443.267 L -92.929 429.125 M -20 536.196 L 2435.87 536.196 M 0 556.196 L 0 496.196 M 2415.87 556.196 L 2415.87 496.196 M 7.071 543.267 L -7.071 529.125 M 2422.941 543.267 L 2408.799 529.125" fill="none" stroke="#1f2937" stroke-width="1" vector-effect="non-scaling-stroke" />
+    
+  </g>
+  <g fill="#111827" font-family="Arial, Helvetica, sans-serif" text-anchor="start">
+    <text x="413.85080000000005" y="517.4287999999999" font-size="15" transform="rotate(-304 413.85080000000005 517.4287999999999)">63.4°</text><text x="431.69780000000003" y="464.2338" font-size="22.5" transform="rotate(55 431.69780000000003 464.2338)">350</text><text x="2362.7448000000004" y="503.79279999999994" font-size="22.5" transform="rotate(-34 2362.7448000000004 503.79279999999994)">212</text><text x="2067.0158" y="456.2908" font-size="22.5" transform="rotate(-34 2067.0158 456.2908)">212</text><text x="1771.2867999999999" y="408.7878" font-size="22.5" transform="rotate(-34 1771.2867999999999 408.7878)">212</text><text x="1443.5678" y="383.4998" font-size="22.5" transform="rotate(-34 1443.5678 383.4998)">290</text><text x="1080.9538" y="382.4418" font-size="22.5" transform="rotate(-34 1080.9538 382.4418)">299</text><text x="665.3638000000001" y="418.1708" font-size="22.5" transform="rotate(-34 665.3638000000001 418.1708)">424</text><text x="335.6848" y="394.2428" font-size="22.5" transform="rotate(-34 335.6848 394.2428)">109</text><text x="103.2348" y="522.3468" font-size="22.5" transform="rotate(-90 103.2348 522.3468)">436</text><text x="1411.4838" y="125.73479999999995" font-size="22.5">2416</text>
+  </g>
+</svg>

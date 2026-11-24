@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 934.2 434.885" width="100%" height="100%" role="img">
+  <rect width="100%" height="100%" fill="#ffffff" />
+  <g transform="translate(179.6 342.1) scale(1 -1)">
+    <path d="M 700 0 L 0 0 L 0 40 L 700 40 L 700 0 M 660 0 L 660 20 L 660 40 L 700 40 L 700 0 L 660 0 M 502.5 40 L 502.5 20 L 472.5 20 L 472.5 40 M 487.5 40 L 487.5 20 M 335 40 L 335 20 L 305 20 L 305 40 M 320 40 L 320 20 M 167.5 40 L 167.5 20 L 137.5 20 L 137.5 40 M 152.5 40 L 152.5 20 M -20 140 L 507.5 140 M 0 160 L 0 100 M 152.5 160 L 152.5 100 M 320 160 L 320 100 M 487.5 160 L 487.5 100 M 7.071 147.071 L -7.071 132.929 M 159.571 147.071 L 145.429 132.929 M 327.071 147.071 L 312.929 132.929 M 494.571 147.071 L 480.429 132.929 M -100 -20 L -100 60 M -120 0 L -60 0 M -120 40 L -60 40 M -107.071 7.071 L -92.929 -7.071 M -107.071 47.071 L -92.929 32.929 M -20 240 L 720 240 M 0 260 L 0 200 M 700 260 L 700 200 M 7.071 247.071 L -7.071 232.929 M 707.071 247.071 L 692.929 232.929" fill="none" stroke="#1f2937" stroke-width="1" vector-effect="non-scaling-stroke" />
+    
+  </g>
+  <g fill="#111827" font-family="Arial, Helvetica, sans-serif" text-anchor="start">
+    <text x="839.6" y="322.1" font-size="15" transform="rotate(-270 839.6 322.1)">45°</text><text x="222.33599999999998" y="157.10000000000002" font-size="22.5">152</text><text x="343.998" y="157.10000000000002" font-size="22.5">2x167.5</text><text x="34.599999999999994" y="400.285" font-size="22.5" transform="rotate(-90 34.599999999999994 400.285)">40</text><text x="496.086" y="57.10000000000002" font-size="22.5">700</text>
+  </g>
+</svg>
